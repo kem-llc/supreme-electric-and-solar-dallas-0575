@@ -2,154 +2,156 @@
   "business": {
     "name": "Supreme Electric and Solar",
     "shortName": "Supreme Electric",
-    "tagline": "Powering Dallas with Trusted Electrical & Solar Solutions",
+    "tagline": "Powering Dallas with Premium Electrical & Solar Solutions",
     "niche": "Electrician",
-    "phone": "(214) 876-0575",
-    "address": "5165 Live Oak St, Dallas, TX 75206",
+    "phone": "(214) 876-0575",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon–Fri: 7am–7pm, Sat: 8am–4pm, Sun: Closed",
-    "ctaLabel": "Get a Free Quote"
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Supreme Electric and Solar | Trusted Electrician in Dallas, TX",
-    "description": "Supreme Electric and Solar offers expert electrical repairs, panel upgrades, solar installation, and EV charger installation in Dallas, TX. 4.2 stars. Call (214) 876-0575."
+    "title": "Best Electrician in Dallas, TX | Supreme Electric and Solar",
+    "description": "Top-rated electrician in Dallas, TX. Expert electrical repairs, panel upgrades, EV charger installation & solar. Call (214) 876-0575 for fast, reliable service."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas' Premier Electrician",
-      "headline": "Reliable Electrical & Solar Services for Your Home or Business",
-      "subheadline": "From urgent repairs to full solar installations, Supreme Electric and Solar delivers safe, efficient, and code-compliant solutions.",
-      "primaryCta": "Schedule Service",
-      "secondaryCta": "Explore Solar"
+      "eyebrow": "Dallas's Trusted Electrical Experts",
+      "headline": "Expert Electrical & Solar Services for Your Home or Business",
+      "subheadline": "From minor repairs to full solar installations, we deliver safe, code-compliant work with a 100% satisfaction guarantee.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Services"
     },
     "stats": [
       {
-        "value": "4.2",
-        "label": "Google Rating"
-      },
-      {
         "value": "500+",
         "label": "Projects Completed"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       },
       {
         "value": "15+",
         "label": "Years Experience"
       },
       {
-        "value": "100%",
-        "label": "Customer Satisfaction"
+        "value": "98%",
+        "label": "On-Time Arrival"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Electrical Expertise",
-        "title": "Comprehensive Electrical Services You Can Count On",
-        "body": "Whether it's a flickering light or a full rewiring, our licensed electricians handle everything residential and commercial. We prioritize safety, efficiency, and transparent pricing.",
+        "eyebrow": "Residential & Commercial",
+        "title": "Full-Service Electrical Solutions",
+        "body": "Whether you need a quick outlet repair or a complete home rewiring, our licensed electricians handle it all. We also specialize in EV charger installation and energy-efficient lighting upgrades.",
         "bullets": [
-          "24/7 emergency repairs",
+          "Lighting installation & repair",
           "Panel upgrades & troubleshooting",
-          "Code-compliant installations"
+          "EV charger installation",
+          "Whole-home surge protection"
         ],
         "reverse": false,
-        "cardLabel": "Service",
-        "cardTitle": "Same-Day Repairs",
-        "cardBody": "Most electrical issues resolved within 24 hours."
+        "cardLabel": "Why Choose Us",
+        "cardTitle": "Licensed & Insured",
+        "cardBody": "Every job is backed by liability insurance and a workmanship guarantee, so you can rest easy."
       },
       {
-        "eyebrow": "Solar Power",
-        "title": "Go Solar with Confidence – Save Money & the Planet",
-        "body": "Harness Texas sunshine with custom solar systems designed for your energy needs. We handle permitting, installation, and maintenance so you can start saving from day one.",
+        "eyebrow": "Go Green",
+        "title": "Solar Panel Installation & Battery Backup",
+        "body": "Reduce your carbon footprint and slash energy bills with our custom solar solutions. We handle design, permitting, and installation for residential and commercial properties.",
         "bullets": [
-          "Free energy consultation",
-          "High-efficiency panels & inverters",
-          "Financing options available"
+          "Custom solar panel design",
+          "Battery storage systems",
+          "Net metering setup",
+          "Federal tax credit guidance"
         ],
         "reverse": true,
-        "cardLabel": "Solar",
-        "cardTitle": "Cut Bills by 50%",
-        "cardBody": "Average customers save $1,200/year on electricity."
+        "cardLabel": "Solar Savings",
+        "cardTitle": "Up to 30% Tax Credit",
+        "cardBody": "Take advantage of federal incentives and start saving from day one."
       }
     ],
-    "whyTitle": "Why Choose Supreme Electric and Solar?",
+    "whyTitle": "Why Dallas Homeowners Choose Supreme Electric",
     "whyChooseUs": [
       {
         "title": "Licensed & Insured",
-        "description": "Fully licensed in Texas with $1M liability insurance for your peace of mind."
+        "description": "Fully licensed in Texas and insured for your protection. We never cut corners on safety."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "Upfront quotes with no hidden fees – you approve the cost before work begins."
+        "title": "Upfront Pricing",
+        "description": "No hidden fees or surprise charges. You'll get a clear estimate before any work begins."
       },
       {
-        "title": "Veteran Owned",
-        "description": "Proudly veteran-owned, bringing discipline and integrity to every job."
+        "title": "Fast Response Times",
+        "description": "Same-day service available for emergencies. We respect your time and arrive within the window."
       },
       {
-        "title": "Lifetime Workmanship Warranty",
-        "description": "We stand behind our work – if there's an issue, we fix it free."
+        "title": "Quality Workmanship Guarantee",
+        "description": "If you're not satisfied, we'll make it right. Our reputation depends on your happiness."
       }
     ],
     "testimonials": [
       {
-        "quote": "Supreme Electric rewired our entire home. Professional, on time, and cleaned up perfectly. Highly recommend!",
-        "author": "Sarah M.",
-        "role": "Homeowner, Dallas"
+        "quote": "They rewired our entire home and were incredibly professional. The team showed up on time, kept everything clean, and the price was fair.",
+        "author": "David M.",
+        "role": "Lakewood Homeowner"
       },
       {
-        "quote": "They installed solar panels on our commercial building. The savings are incredible, and the process was seamless.",
-        "author": "James T.",
-        "role": "Business Owner"
+        "quote": "I needed an EV charger installed quickly. Supreme Electric came out the next day, explained everything, and had it working in a few hours. Highly recommend!",
+        "author": "Lisa T.",
+        "role": "Uptown Resident"
       },
       {
-        "quote": "Called for an emergency outage at 10pm – they arrived within an hour and fixed it. True lifesavers!",
-        "author": "Maria G.",
-        "role": "Homeowner"
+        "quote": "We had a faulty panel that kept tripping. They diagnosed the issue fast and replaced it same day. Peace of mind is priceless.",
+        "author": "James R.",
+        "role": "Oak Lawn Business Owner"
       }
     ],
     "cta": {
-      "headline": "Ready to Power Your Future?",
-      "subheadline": "Contact us today for a free estimate or emergency service.",
-      "primaryCta": "Call Now",
-      "secondaryCta": "Request Online Quote"
+      "headline": "Ready to Power Up Your Property?",
+      "subheadline": "Call us or fill out the form for a free, no-obligation estimate.",
+      "primaryCta": "Call (214) 876-0575",
+      "secondaryCta": "Get a Free Estimate"
     }
   },
   "servicesPage": {
-    "intro": "From simple repairs to full solar installations, Supreme Electric and Solar offers a full range of electrical services tailored to Dallas homes and businesses. Each service is backed by our commitment to quality, safety, and customer satisfaction."
+    "intro": "From simple fixes to full-scale solar installations, Supreme Electric and Solar delivers expert electrical services across Dallas. Our licensed electricians use top-tier materials and follow strict safety codes to ensure lasting results."
   },
   "services": [
     {
       "icon": "01",
       "title": "Electrical Repairs & Troubleshooting",
-      "shortDescription": "Fast, reliable repairs for any electrical issue – from flickering lights to complete power outages.",
-      "longDescription": "Our licensed electricians diagnose and fix electrical problems quickly and safely. We handle everything from faulty outlets and breaker trips to wiring issues and surge protection. Using advanced diagnostic tools, we pinpoint the root cause and provide lasting solutions. Emergency service available 24/7.",
+      "shortDescription": "Fast, reliable fixes for outlets, switches, breakers, and more.",
+      "longDescription": "Our experienced electricians diagnose and repair any electrical issue, from flickering lights to dead outlets and tripping breakers. We use advanced testing equipment to pinpoint problems quickly, saving you time and money. Every repair is performed to the highest safety standards.",
       "benefits": [
-        "Same-day service for urgent repairs",
-        "Accurate diagnostics with thermal imaging",
-        "Upfront pricing – no surprises",
-        "All work guaranteed for 1 year"
+        "Same-day service available for emergencies",
+        "Transparent pricing with no hidden fees",
+        "All work guaranteed for your peace of mind"
       ],
       "process": [
         {
           "title": "Diagnosis",
-          "description": "We inspect the issue, test circuits, and identify the problem using state-of-the-art equipment."
+          "description": "We inspect the issue and explain the cause in plain English."
         },
         {
           "title": "Repair",
-          "description": "Our electrician performs the repair, replacing or repairing components as needed."
+          "description": "Our technicians make the repair using quality parts and proven techniques."
         },
         {
-          "title": "Testing",
-          "description": "We test the entire system to ensure everything works safely and efficiently."
+          "title": "Test & Verify",
+          "description": "We test everything to ensure it's working safely and efficiently."
         }
       ],
       "faqs": [
         {
           "question": "How quickly can you respond to an emergency?",
-          "answer": "We offer 24/7 emergency service and typically arrive within 1 hour for urgent calls in Dallas."
+          "answer": "We offer same-day service for urgent issues. Call us and we'll prioritize your job."
         },
         {
-          "question": "Do you charge for diagnostic calls?",
-          "answer": "A small diagnostic fee applies, but it's credited toward any repair work you approve."
+          "question": "Do you charge for estimates?",
+          "answer": "No, we provide free, no-obligation estimates for all repair work."
         }
       ],
       "slug": "electrical-repairs-troubleshooting"
@@ -157,169 +159,168 @@
     {
       "icon": "02",
       "title": "Electrical Panel Upgrades",
-      "shortDescription": "Upgrade your electrical panel for increased safety, capacity, and modern appliance support.",
-      "longDescription": "Older panels can be a fire hazard and limit your home's electrical capacity. We replace outdated fuse boxes and breaker panels with modern, code-compliant units. Whether you need 100, 200, or 400 amp service, we design and install a panel that meets your current and future needs. Includes surge protection options.",
+      "shortDescription": "Modernize your electrical system for safety and capacity.",
+      "longDescription": "Older panels can be a fire hazard and limit your home's electrical capacity. We upgrade to modern, code-compliant panels that handle today's demands—from home offices to EV chargers. Our team handles permits and inspections for a seamless experience.",
       "benefits": [
-        "Increased home value and safety",
-        "Supports modern appliances and EV chargers",
-        "Reduces risk of electrical fires",
-        "Includes whole-home surge protection upgrade"
+        "Increased safety and reduced fire risk",
+        "Supports modern appliances and electronics",
+        "Adds value to your home"
       ],
       "process": [
         {
           "title": "Assessment",
-          "description": "We evaluate your current panel, load requirements, and future needs."
+          "description": "We evaluate your current panel and load requirements."
         },
         {
           "title": "Permitting",
-          "description": "We handle all permits and coordinate with the utility company if needed."
+          "description": "We secure all necessary permits from the city."
         },
         {
           "title": "Installation",
-          "description": "Our team installs the new panel, rewires connections, and tests everything."
+          "description": "Our team installs the new panel and tests the entire system."
         }
       ],
       "faqs": [
         {
           "question": "How long does a panel upgrade take?",
-          "answer": "Most residential upgrades are completed in 4-8 hours, depending on complexity."
+          "answer": "Most residential upgrades are completed in one day."
         },
         {
           "question": "Do I need a permit for a panel upgrade?",
-          "answer": "Yes, and we handle all permitting and inspections to ensure code compliance."
+          "answer": "Yes, and we handle all permitting and inspection coordination for you."
         }
       ],
       "slug": "electrical-panel-upgrades"
     },
     {
       "icon": "03",
-      "title": "Solar Panel Installation",
-      "shortDescription": "Custom solar systems that reduce your electricity bills and carbon footprint.",
-      "longDescription": "Go solar with confidence. We design and install solar panel systems tailored to your home's energy usage and roof orientation. Using top-tier panels and inverters, we maximize efficiency and savings. Our turnkey service includes design, permitting, installation, and monitoring setup. Financing options available with $0 down.",
+      "title": "EV Charger Installation",
+      "shortDescription": "Level 2 chargers installed fast, with full support.",
+      "longDescription": "Drive electric? We install Level 2 EV chargers for all makes and models. Our electricians ensure proper wiring, breaker sizing, and code compliance. We'll help you choose the right charger and location for your home or business.",
       "benefits": [
-        "Lower electricity bills by up to 50%",
-        "30% federal tax credit available",
-        "Increase property value",
-        "Environmentally friendly energy"
+        "Faster charging than standard outlets",
+        "Professional installation with warranty",
+        "Future-proof your property"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We review your energy bills, assess your roof, and design a custom solar plan."
+          "description": "We discuss your vehicle, driving habits, and ideal charger location."
         },
-        {
-          "title": "Permitting & Approval",
-          "description": "We handle all paperwork, permits, and utility approvals."
-        },
-        {
-          "title": "Installation & Activation",
-          "description": "Our crew installs panels and inverter, then connects to the grid for net metering."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How much can I save with solar?",
-          "answer": "Typical savings range from 30-50% on monthly electricity bills, depending on system size and sun exposure."
-        },
-        {
-          "question": "Do you offer financing?",
-          "answer": "Yes, we offer $0 down financing with flexible terms to fit your budget."
-        }
-      ],
-      "slug": "solar-panel-installation"
-    },
-    {
-      "icon": "04",
-      "title": "EV Charger Installation",
-      "shortDescription": "Professional installation of Level 2 EV chargers for your home or business.",
-      "longDescription": "Charge your electric vehicle faster and conveniently at home or work. We install Level 2 charging stations from leading brands like Tesla, ChargePoint, and JuiceBox. Our electricians ensure proper wiring, breaker sizing, and code compliance. We also offer commercial charging solutions for businesses and multi-unit dwellings.",
-      "benefits": [
-        "Faster charging – up to 25 miles per hour",
-        "Convenient overnight charging at home",
-        "Increase property appeal for tenants",
-        "Eligible for utility rebates"
-      ],
-      "process": [
         {
           "title": "Site Assessment",
-          "description": "We evaluate your electrical panel, parking location, and recommend the best charger."
+          "description": "We check your panel capacity and run conduit if needed."
         },
         {
           "title": "Installation",
-          "description": "We run conduit, install the charger, and connect it to a dedicated breaker."
-        },
-        {
-          "title": "Testing & Setup",
-          "description": "We test the charger, show you how to use it, and register any warranties."
+          "description": "We mount the charger, connect wiring, and test operation."
         }
       ],
       "faqs": [
         {
-          "question": "Do I need a panel upgrade for an EV charger?",
-          "answer": "Not always. We assess your current panel capacity and advise if an upgrade is needed."
+          "question": "Can you install any brand of EV charger?",
+          "answer": "Yes, we install Tesla, ChargePoint, JuiceBox, and all major brands."
         },
         {
-          "question": "Can you install a Tesla Wall Connector?",
-          "answer": "Yes, we install all major brands including Tesla, ChargePoint, and Grizzl-E."
+          "question": "How long does installation take?",
+          "answer": "Most installations take 2-4 hours. Complex setups may take longer."
         }
       ],
       "slug": "ev-charger-installation"
+    },
+    {
+      "icon": "04",
+      "title": "Solar Panel Installation",
+      "shortDescription": "Custom solar systems that slash your energy bills.",
+      "longDescription": "Go solar with confidence. We design and install custom photovoltaic systems for homes and businesses. From roof assessment to interconnection, we manage the entire process. Our systems come with industry-leading warranties and monitoring capabilities.",
+      "benefits": [
+        "Reduce electricity bills by up to 70%",
+        "Federal tax credit of 30%",
+        "Increase property value"
+      ],
+      "process": [
+        {
+          "title": "Design",
+          "description": "We create a custom solar layout based on your roof and energy needs."
+        },
+        {
+          "title": "Permitting & Approval",
+          "description": "We handle all paperwork with the city and utility company."
+        },
+        {
+          "title": "Installation & Activation",
+          "description": "Our crew installs panels and inverter, then connects to the grid."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a solar installation take?",
+          "answer": "Most residential installations are completed in 1-3 days after permits are approved."
+        },
+        {
+          "question": "What if my roof is old or needs repair?",
+          "answer": "We can coordinate roof repairs or replacement before solar installation to ensure a solid foundation."
+        }
+      ],
+      "slug": "solar-panel-installation"
     }
   ],
   "about": {
-    "headline": "Your Trusted Dallas Electrician Since 2008",
-    "mission": "To deliver safe, reliable, and innovative electrical solutions that power homes and businesses while exceeding customer expectations.",
+    "headline": "Dallas's Premier Electrical & Solar Company",
+    "mission": "To provide safe, reliable, and energy-efficient electrical solutions that exceed expectations while treating every customer like family.",
     "story": [
-      "Supreme Electric and Solar was founded in 2008 by a veteran electrician with a vision to provide Dallas with honest, high-quality electrical services. Starting from a small truck, we built a reputation for reliability, transparency, and craftsmanship. Over the years, we expanded into solar energy, helping homeowners and businesses harness Texas' abundant sunshine.",
-      "Today, we are a family-owned team of licensed electricians and solar specialists serving the entire Dallas metroplex. We pride ourselves on same-day service, upfront pricing, and a lifetime workmanship warranty. Whether it's a simple outlet repair or a full solar installation, we treat every home like our own."
+      "Supreme Electric and Solar was founded on the belief that quality electrical work shouldn't come with a premium attitude. Our owner, a licensed master electrician with over 15 years in the trade, started the company to offer Dallas homeowners and businesses a better choice: transparent pricing, punctual service, and workmanship that stands the test of time. What began as a one-truck operation has grown into a trusted team serving thousands of satisfied customers across the metroplex.",
+      "Today, we're proud to be a leading provider of electrical repairs, panel upgrades, EV charger installations, and solar energy systems. Our commitment to continuing education and code compliance means every job is done right the first time. We give back to the community through free safety inspections for seniors and sponsorships of local youth sports teams. At Supreme Electric, we're not just electricians—we're your neighbors."
     ],
     "highlight": {
-      "stat": "4.2",
-      "label": "Google Rating – See why customers trust us"
+      "stat": "500+",
+      "label": "Projects Completed in Dallas"
     },
     "coreValues": [
       {
         "title": "Safety First",
-        "description": "Every job follows strict safety protocols to protect your family and property."
+        "description": "We never compromise on safety. Every job follows strict protocols to protect you and your property."
       },
       {
         "title": "Integrity",
-        "description": "Honest assessments, transparent pricing, and no upselling."
+        "description": "Honest recommendations, transparent pricing, and no shortcuts. We do what we say."
       },
       {
-        "title": "Excellence",
-        "description": "We use top-quality materials and continuous training to deliver superior work."
+        "title": "Innovation",
+        "description": "We stay ahead of the curve with the latest tools, techniques, and energy solutions."
       },
       {
         "title": "Community",
-        "description": "Proudly supporting local businesses and veteran causes in Dallas."
+        "description": "We're proud to serve and support the Dallas community that has supported us."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch – We're Here to Help",
-    "subheadline": "Call, text, or fill out our form for a free estimate or emergency service.",
+    "headline": "Get in Touch with Supreme Electric and Solar",
+    "subheadline": "Ready to start your project? Call or fill out the form for a free estimate.",
     "primaryCta": "Call (214) 876-0575",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Highland Park",
-      "University Park",
-      "Richardson",
-      "Garland",
       "Plano",
+      "Garland",
       "Irving",
-      "Mesquite"
+      "Richardson",
+      "Mesquite",
+      "Carrollton",
+      "Frisco"
     ]
   },
   "social_proof": {
-    "rating": 4.2,
+    "rating": "",
     "reviews": null
   },
   "meta": {
     "niche": "Electrician",
-    "generated_by": "deepseek"
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
   },
   "phone_href": "tel:2148760575",
-  "current_year": 2026
+  "current_year": 2026,
+  "header_cta": "Call Now"
 }
